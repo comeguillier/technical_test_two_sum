@@ -1,9 +1,19 @@
-# Technical Test
+# Technical Test - Two Sum
 
-## Two Sum
+### Problem
 
 You have an array A[] of n numbers and a number x. 
+
 Determines whether or not there exist two elements in A[] whose sum is exactly x.
 
-Complete the code in main.py. 
-And run the test.py to check if your code is correct. 
+
+
+### Your answer
+
+The idea is to complete the code in main.py and send us your solution via mail (easy way) or create a custom branch and make a pull request (would be awesome).
+
+You can run main.py to check whether you code is correct. 
+
+
+
+
